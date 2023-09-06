@@ -1,0 +1,5 @@
+boto3==1.28.40
+schedule==1.2.0
+requests
+bs4
+
